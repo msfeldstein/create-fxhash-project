@@ -1,0 +1,15 @@
+{
+  "name": "create-fxhash-project",
+  "description": "Creates an fx-hash template",
+  "version": "0.0.2",
+  "author": "fxhash <msfeldstein@gmail.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.0.0"
+  },
+  "license": "AGPL-3.0"
+}
