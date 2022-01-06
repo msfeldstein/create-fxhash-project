@@ -1,7 +1,7 @@
 {
   "name": "create-fxhash-project",
   "description": "Creates an fx-hash template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "fxhash <msfeldstein@gmail.com>",
   "bin": "src/cli.js",
   "files": [

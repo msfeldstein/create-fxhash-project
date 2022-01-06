@@ -7,7 +7,7 @@ console.log(fxrand()) // deterministic PRNG function, use it instead of Math.ran
 // pseudo random numbers, always
 
 
-
+/** @type {HTMLCanvasElement} */
 const canvas = document.querySelector('#canvas')
 const ctx = canvas.getContext('2d')
 ctx.fillStyle = "red"
